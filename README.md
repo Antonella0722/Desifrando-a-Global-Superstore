@@ -6,3 +6,5 @@ Global Super Stores es una empresa líder en ventas de productos en linea a nive
 
 ### Desafio 🚀
 Desarrollar las etapas de un proyecto de DA desde los procesos de ETL necesarios  para el análisis exploratorio hasta la presentación de resultados mediante informes y Dashboard interactivo en Spreadsheets.
+
+📌 Para tener una mejor interactividad con el dashboard en googlesheets te envito a que hagas clic en el siguiente enlace [SuperStore](https://docs.google.com/spreadsheets/d/1py1S6WRk6YPlTvWXkLXxSA133_p99YUdexrcBVVpRyA/edit?gid=1869834458#gid=1869834458)
